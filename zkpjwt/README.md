@@ -268,6 +268,7 @@ This project demonstrates that Stylus isn't just faster—it enables **new use c
 
 ## 📚 Resources & Links
 
+- **Smart Contract Arbiscan**: [https://sepolia.arbiscan.io/address/0xf935f364f797af2336ffdb3ee06431e1616b7c6c#code](https://sepolia.arbiscan.io/address/0xf935f364f797af2336ffdb3ee06431e1616b7c6c#code)
 - **Arbitrum Stylus Docs**: [https://docs.arbitrum.io/stylus/stylus-gentle-introduction](https://docs.arbitrum.io/stylus/stylus-gentle-introduction)
 - **Circom Documentation**: [https://docs.circom.io/](https://docs.circom.io/)
 - **JWT Standard (RFC 7519)**: [https://datatracker.ietf.org/doc/html/rfc7519](https://datatracker.ietf.org/doc/html/rfc7519)
